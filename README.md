@@ -1,1 +1,1 @@
-#Run the pacman.py file.
+*Run the pacman.py file.
