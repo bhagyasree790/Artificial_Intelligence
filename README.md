@@ -1,7 +1,5 @@
 
 ## 🚀 How to Run
 
-To start the game, simply run the following command in your terminal:
+To start the game, simply download this repository and run the pacman.py file.
 
----
-python pacman.py
